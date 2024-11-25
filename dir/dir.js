@@ -1,0 +1,1 @@
+console.log('Arquivo NOVO da pasta dir.')
